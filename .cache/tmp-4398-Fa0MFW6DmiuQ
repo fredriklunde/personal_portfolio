@@ -1,0 +1,5 @@
+
+    const cmd = require("/Users/fredriklunde/Documents/projects/personal_portfolio/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":50114,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/Users/fredriklunde/Documents/projects/personal_portfolio","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"personal_portfolio","version":"1.0.0","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"keywords":[],"author":"","license":"ISC","dependencies":{"@wkocjan/gatsby-theme-intro":"^1.0.14","gatsby":"^2.24.73","react":"^16.13.1","react-dom":"^16.13.1"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
