@@ -24,7 +24,7 @@
     - Agile
     - Google
   budget:
-    currency: $
-    min: 5
-    max: 30
+    currency: Kr
+    min: 3
+    max: 100
     default: 10
