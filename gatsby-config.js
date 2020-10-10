@@ -9,7 +9,7 @@ module.exports = {
       {
         resolve: "@wkocjan/gatsby-theme-intro",
         options: {
-          basePath: "https://flpersonalportfolio.netlify.app/",
+          basePath: "/",
           showThemeLogo: true,
           theme: "classic",
         },
