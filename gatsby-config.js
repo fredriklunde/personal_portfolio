@@ -10,8 +10,8 @@ module.exports = {
         resolve: "@wkocjan/gatsby-theme-intro",
         options: {
           basePath: "/",
-          showThemeLogo: true,
-          theme: "classic",
+          showThemeLogo: false,
+          theme: "gh-inspired",
         },
       },
     ],
